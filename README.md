@@ -54,7 +54,6 @@ Using primarily Pandas and the dataset provided, I was able to calculate/visuali
 #### Top Spenders
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
