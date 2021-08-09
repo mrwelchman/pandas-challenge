@@ -76,3 +76,18 @@ Using primarily Pandas and the dataset provided, I was able to calculate/visuali
   * Item Price
   * Total Purchase Value
 
+Below are a few screen shots of the Jupyter Notebook that has the code and tables with all of the goodies. Below are a few screen shots.
+
+I went ahead and put my conclusions right at the top.
+
+![intro](intro.png)
+
+Here is some item analysis as well as gender demos.
+
+![items_gender](items_gender.png)
+
+Some age analysis.
+
+![age](age.png)
+
+This was a fun project as I am a gamer. It was also a depressing project, as I think microtransactions are the weakest sauce around. Thanks for stopping by and have an amazing one.
